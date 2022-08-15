@@ -1,4 +1,4 @@
-![Foto bioparque](./assets/bioparque.PNG)
+![Foto bioparque](./assets/bioparque.png)
 
 # Bioparque Unahur
 
